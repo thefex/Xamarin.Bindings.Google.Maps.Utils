@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+    <metadata>
+        <id>Xamarin.Bindings.Google.Maps.Utils.iOS</id>
+        <version>4.1.0</version>
+        <title>amarin.Bindings.Google.Maps.Utils.iOS</title>
+        <authors>Przemysław Raciborski [thefex]</authors>
+        <projectUrl>https://github.com/thefex/Xamarin.Bindings.Google.Maps.Utils</projectUrl>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>Latest Google Maps Utils SDKs bindings for iOS (4.1.0).</description>
+        <dependencies>
+            <group targetFramework="Xamarin.iOS10">
+                <dependency id="Xamarin.Google.iOS.Maps" version="6.0.1.1" />
+            </group>
+        </dependencies>
+    </metadata>
+    <files>
+        <file src="../Xamarin.Bindings.Google.Maps.Utils.iOS/bin/Release/Xamarin.Bindings.Google.Maps.Utils.iOS.dll" target="lib/Xamarin.iOS10/Xamarin.Bindings.Google.Maps.Utils.iOS.dll" /> 
+    </files>
+</package>

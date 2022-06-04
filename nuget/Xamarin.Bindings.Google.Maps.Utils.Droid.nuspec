@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+    <metadata>
+        <id>Xamarin.Bindings.Google.Maps.Utils.Droid</id>
+        <version>2.3.0</version>
+        <title>Xamarin.Bindings.Google.Maps.Utils.Droid</title>
+        <authors>Przemysław Raciborski [thefex]</authors>
+        <projectUrl>https://github.com/thefex/Xamarin.Bindings.Google.Maps.Utils</projectUrl>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>Latest Google Maps Utils SDKs bindings for Android (2.3.0).</description>
+        <dependencies>
+            <group targetFramework="MonoAndroid12.0">
+                <dependency id="Xamarin.AndroidX.AppCompat" version="1.3.1.5" />
+                <dependency id="Xamarin.GooglePlayServices.Maps" version="118.0.2" />
+            </group>
+        </dependencies>
+    </metadata>
+    <files>
+        <file src="../Xamarin.Bindings.Google.Maps.Utils.Android/bin/Release/Xamarin.Bindings.Google.Maps.Utils.Android.dll" target="lib/MonoAndroid12.0/Xamarin.Bindings.Google.Maps.Utils.Android.dll" />
+    </files>
+</package>

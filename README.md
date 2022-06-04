@@ -5,6 +5,15 @@ Works with:
 - Xamarin.GooglePlayServices.Maps, Version="118.0.2" - Android
 - Xamarin.Google.iOS.Maps, Version="6.0.1.1" - iOS
 
+See more: 
+- https://github.com/googlemaps/android-maps-utils
+- https://github.com/googlemaps/google-maps-ios-utils
+
+# Install 
+Nuget packages available:
+- https://www.nuget.org/packages/Xamarin.Bindings.Google.Maps.Utils.Droid/
+- https://www.nuget.org/packages/Xamarin.Bindings.Google.Maps.Utils.iOS/
+
 # Support
 Bindings have been tested and used within:
 
