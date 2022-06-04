@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xamarin.Bindings.Google.Maps.Utils.Android", "Xamarin.Bindings.Google.Maps.Utils.Android\Xamarin.Bindings.Google.Maps.Utils.Android.csproj", "{4C96B2BF-2653-4FCF-8890-E518B3EF6B09}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xamarin.Bindings.Google.Maps.Utils.iOS", "Xamarin.Bindings.Google.Maps.Utils.iOS\Xamarin.Bindings.Google.Maps.Utils.iOS.csproj", "{DB184EC3-50CF-43D0-B26F-497854059D7F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C96B2BF-2653-4FCF-8890-E518B3EF6B09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C96B2BF-2653-4FCF-8890-E518B3EF6B09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C96B2BF-2653-4FCF-8890-E518B3EF6B09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C96B2BF-2653-4FCF-8890-E518B3EF6B09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB184EC3-50CF-43D0-B26F-497854059D7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB184EC3-50CF-43D0-B26F-497854059D7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB184EC3-50CF-43D0-B26F-497854059D7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB184EC3-50CF-43D0-B26F-497854059D7F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
